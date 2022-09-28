@@ -1,6 +1,7 @@
 * {
-    margin: 0px;
+    margin: 0%;
     box-sizing: border-box;
+    padding: 0%;
 }
 
 div {
@@ -30,9 +31,11 @@ h1 {
     font-size: 20px;
     font-family: arial;
     color: green;
+    margin-bottom: 56px;
 }
 img {
     width: 70%;
-    border: 3px solid blue;
+    border: 3px solid red;
     border-radius: 20px;
+    margin-bottom: 40px;
 }
